@@ -1,2 +1,18 @@
 # SpawnPoint-EC46C-2026-1
-Este repositório tem como objetivo versionar arquivos de um projeto em grupo, que visa a criação de um protótipo relacionado a uma plataforma web com a temática de Red Dead Redemption, que semelhante a alguns sistemas como o do reddit, 4chan e etc... Apresentará recursos de notícias, comentários, curiosidades entre outras funcionalidades
+
+Nome da equipe: SpawnPoint
+
+Disciplina: Desenvolvimento Ágil
+
+Integrantes: 
+  -Rafael Moreira Rosa
+  -Juliano Moreto
+  -José Augusto
+  -Henrique Da Silva Marques
+  
+Descrição: Este repositório tem como objetivo versionar arquivos de um projeto em grupo, que visa a criação de um protótipo relacionado a uma plataforma web com a temática de Red Dead Redemption, que semelhante a alguns sistemas como o do reddit, 4chan e etc... Apresentará recursos de notícias, comentários, curiosidades entre outras funcionalidades
+Documentos que serão encontrados no repositório (criaremos links para cada documento como se fosse um sumário). Por exemplo:
+  - Link 1
+  - Link 2
+  - Link3 e etc...
+
