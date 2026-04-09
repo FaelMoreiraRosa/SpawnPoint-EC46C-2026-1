@@ -22,5 +22,6 @@
 > * Aba de atualizações (Mudanças no jogo)
 > * Aba de fórum (Sistema reddit de discussão com perguntas e respostas)
 > * Aba de reports (Reportar bugs ou problemas)
+> * Sistema de Login para participar do fórum
 >
 > Público Alvo: Jogadores, Reviewers, Interessados
