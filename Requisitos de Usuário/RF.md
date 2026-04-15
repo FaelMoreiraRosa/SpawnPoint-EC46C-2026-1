@@ -11,8 +11,8 @@
 | RF05 | O usuário pode acessar a página de atualizações do jogo.                  |    Alta    |             |
 | RF06 | O usuário pode acessar a página de fórum para ver as publicações.         |    Alta    |             |
 | RF07 | O usuário pode acessar a página de reportar bugs/erros.                   |    Média   |             |
-| RF08 | O usuário logado pode criar um post no fórum.                             |    Média   |             |
-| RF09 | O usuário logado pode criar um comentário num post do fórum.              |    Média   |             |
+| RF08 | O usuário logado pode criar um post no fórum.                             |    Média   |    RF03     |
+| RF09 | O usuário logado pode criar um comentário num post do fórum.              |    Média   |    RF03     |
 | RF10 | O usuário pode alterar o apelido e foto dele nas configurações.           |    Baixa   |             |
 | RF11 | O usuário pode reportar o post ou comentário de outro usuário.            |    Baixa   |             |
 | RF12 | O usuário pode dar like ou dislike num post ou comentário.                |    Baixa   |             |
