@@ -4,8 +4,8 @@
 
 | ID   |                                 Requisito                                 | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: | :--------: | :---------: |
-| RF01 | O usuário deve ver a página de informações gerais ao entrar no site.      |    Alta    |             |
-| RF02 | O usuário pode fazer cadastro (apelido, email, senha, foto de perfil).    |    Média   |             |
+| RF01 | O usuário deve ver a página de informações gerais (Personagens principais e Mapa/Mundo) ao entrar no site.      |    Alta    |             |
+| RF02 | O usuário pode fazer cadastro (apelido, email, senha, foto de perfil de no máximo 5MB).    |    Média   |             |
 | RF03 | O usuário deve fazer login para comentar e fazer postagens no fórum.      |    Média   |             |
 | RF04 | O usuário pode acessar a página de notícias do jogo.                      |    Alta    |             |
 | RF05 | O usuário pode acessar a página de atualizações do jogo.                  |    Alta    |             |
@@ -19,7 +19,7 @@
 | RF13 | O administrador pode alterar a página de notícias.                        |    Alta    |             |
 | RF14 | O administrador pode alterar a página de atualizações.                    |    Alta    |             |
 | RF15 | O administrador pode alterar a página de informações gerais.              |    Alta    |             |
-| RF16 | O administrador pode banir ou suspender a conta de um usuário que descumprir as regras.        |   Baixa    |             |
+| RF16 | O administrador pode banir ou suspender (2 semanas) a conta de um usuário que descumprir as regras.        |   Baixa    |             |
 | RF17 | O administrador pode acessar a página de reports para ver o que os usuários reportaram.        |   Baixa    |             |
 
 
