@@ -67,7 +67,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O usuário autenticado deve visualizar e conseguir usar o botão "Criar Novo Tópico" e responder tópicos.</li><li> Ao criar um tópico, deve ser obrigatório inserir um Título e o Conteúdo da mensagem.</li><li> Em cada tópico e resposta, devem existir botões de Upvote (seta para cima) e Downvote (seta para baixo).</li><li> A pontuação da postagem (Upvotes - Downvotes) deve ser atualizada em tempo real ao clicar. </li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF08, RF09, RF12</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">5</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">8</td>
         </tr>
         <tr>
             <span id="ustory-07"></span>
