@@ -58,7 +58,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>A aba do fórum deve ser pública e visível para usuários não logados.</li><li> A página inicial do fórum deve listar os tópicos exibindo: Título, Autor, Data da postagem e Número de respostas.</li><li>Se um usuário não logado tentar clicar em "Responder" ou "Criar Tópico", ele deve ser redirecionado para a tela de Login com a mensagem: "Faça login para participar da discussão".</li><li> Deve existir um sistema de paginação ou rolagem infinita após exibir 20 fóruns. </li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF06</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">10</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">8</td>
         </tr>
         <tr>
             <span id="ustory-06"></span>
