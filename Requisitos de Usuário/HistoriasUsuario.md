@@ -31,7 +31,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>A página de notícias deve exibir uma lista de artigos ordenados cronologicamente (do mais recente para o mais antigo).</li><li> Cada item da lista deve mostrar: uma imagem de capa, um título, a data de publicação e um breve resumo (linha fina).</li><li> Ao clicar no card da notícia, o usuário deve ser redirecionado para a página com o conteúdo completo. </li><li> Deve existir um sistema de paginação ou rolagem infinita após exibir 10 notícias. </li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF04</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">7</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">8</td>
         </tr>
         <tr>
             <span id="ustory-03"></span>
