@@ -85,7 +85,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Deve haver uma tela para ver os reports em ordem cronológica (do mais recente para o mais antigo).</li><li>Deve ser possível acessar um report em específico, ver seus detalhes e fechar o report quando finalizado.</li><li>Deve haver opções para criação, edição e deleção de informações ou tópicos das páginas de notícias, atualizações e informações gerais</li><li>Deve haver a possibilidade de banir ou suspender um usuário que infringir as regras.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF13, RF14, RF15, RF16, RF17</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">10</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">21</td>
         </tr>
 </table>
 
