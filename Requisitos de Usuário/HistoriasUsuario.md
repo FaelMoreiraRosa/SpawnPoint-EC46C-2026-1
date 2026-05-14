@@ -49,7 +49,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>O formulário de cadastro deve exigir: Nome de Usuário, E-mail válido e Senha (mínimo de 8 caracteres).</li><li> O sistema deve validar se o nome de usuário ou e-mail já estão em uso e exibir um erro amigável caso estejam.</li><li> O usuário deve poder fazer login utilizando E-mail e Senha.</li><li> Após o login bem-sucedido, o cabeçalho do site deve exibir o nome do usuário e a opção de "Sair" (Logout).</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF03</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">6</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">13</td>
         </tr>
         <tr>
             <span id="ustory-05"></span>
