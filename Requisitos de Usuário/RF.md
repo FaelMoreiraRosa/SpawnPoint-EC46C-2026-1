@@ -13,8 +13,8 @@
 | RF07 | O usuário pode acessar a página de reportar bugs/erros.                   |    Média   |             |
 | RF08 | O usuário logado pode criar um post no fórum.                             |    Média   |    RF03     |
 | RF09 | O usuário logado pode criar um comentário num post do fórum.              |    Média   |    RF03     |
-| RF10 | O usuário pode alterar o apelido e foto dele nas configurações.           |    Baixa   |             |
-| RF11 | O usuário pode reportar o post ou comentário de outro usuário.            |    Baixa   |             |
+| RF10 | O usuário logado pode alterar o apelido e foto dele nas configurações.    |    Baixa   |             |
+| RF11 | O usuário logado pode reportar o post ou comentário de outro usuário.     |    Baixa   |             |
 | RF12 | O usuário pode dar like ou dislike num post ou comentário.                |    Baixa   |             |
 | RF13 | O administrador pode alterar a página de notícias.                        |    Alta    |             |
 | RF14 | O administrador pode alterar a página de atualizações.                    |    Alta    |             |
