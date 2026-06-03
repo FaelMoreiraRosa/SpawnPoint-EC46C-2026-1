@@ -11,6 +11,10 @@
   - José Augusto de Barros Ardenghi [GitHub](https://github.com/JosephNF)
   - Juliano Moreto Massoca [GitHub](https://github.com/JulianoMXM)
   - Rafael Moreira Rosa [GitHub](https://github.com/FaelMoreiraRosa)
+
+
+## Ferramentas utilizadas
+  - Figma
   
 # Descrição
 
